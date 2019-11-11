@@ -70,7 +70,7 @@ declare namespace Client {
         /**
          * The size of the entry in bytes
          */
-        size: string;
+        size: number;
         /**
          * The last modified date of the entry
          */
